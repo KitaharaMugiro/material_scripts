@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name = 'Mate',
+    name = 'material_scripts',
     version = '1.0.0',
     url = 'https://github.com/KitaharaMugiro/material_scripts.git',
     license = 'Free',
