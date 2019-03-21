@@ -9,5 +9,5 @@ setup(
     author_email = 'ngthornym@me.com',
     description = 'scripts for better development',
     install_requires = ['setuptools' , 'requests'],
-    packages = ["scripts"]
+    packages = ["material_scripts"]
 )
