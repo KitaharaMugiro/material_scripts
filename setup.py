@@ -8,6 +8,6 @@ setup(
     author = 'Mugiro Kitahara',
     author_email = 'ngthornym@me.com',
     description = 'scripts for better development',
-    install_requires = ['setuptools' , 'unicodedata'],
+    install_requires = ['setuptools'],
     packages = ["material_scripts"]
 )
